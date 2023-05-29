@@ -1,0 +1,20 @@
+389 383 oak 1077 336 oak 277 180 oak 156 246 oak 866 420 oak
+167 182 oak 433 97 oak 548 142 oak 
+540 296 oak 674 80 oak 691 456 oak 
+762 491 oak 1093 98 oak 510 111 oak 567 444 oak 660 489 oak 
+61 405 oak 119 175 oak 
+1067 256 darkOak 372 475 darkOak 
+967 397 darkOak 179 276 darkOak 
+672 211 darkOak 779 260 darkOak 383 246 darkOak 512 239 darkOak 
+715 294 darkOak 283 74 darkOak 113 328 darkOak 
+175 353 darkOak 1082 301 darkOak 433 380 darkOak 948 73 darkOak 
+55 70 spruce 746 272 spruce 1078 537 spruce 226 452 spruce 
+1096 389 spruce 463 178 spruce 59 381 spruce 
+382 259 spruce 293 131 spruce 912 493 spruce 638 538 spruce 385 125 spruce 
+987 158 spruce 834 229 spruce 194 222 spruce 
+310 213 spruce 1092 315 spruce
+0 0 none
+0 0 none
+0 0 none
+0 0 none
+0 0 none

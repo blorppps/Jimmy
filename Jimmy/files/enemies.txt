@@ -1,0 +1,20 @@
+0 0 none
+600 300 melee
+200 100 melee 600 300 melee 1000 500 melee
+600 300 melee 800 200 melee 800 400 melee 1000 300 melee 1000 100 melee 1000 500 melee
+800 250 big
+1000 300 lightning
+1000 200 lightning 1000 400 lightning 600 300 melee
+800 100 lightning 800 300 lightning 800 500 lightning 500 100 melee 500 300 melee 500 500 melee 
+800 250 big 1000 200 lightning 1000 400 lightning
+450 150 tree
+1000 300 laser
+1000 200 laser 1000 400 laser 600 300 melee
+500 200 lightning 500 400 lightning 700 300 laser
+800 250 big 1000 200 laser 1000 400 laser 600 200 melee 600 400 melee
+1000 300 laserBoss
+1000 300 magic
+1000 200 magic 1000 400 magic 600 300 melee
+800 100 magic 800 300 magic 800 500 magic 500 100 magic 500 300 magic 500 500 magic
+800 250 big 1000 100 lightning 1000 300 laser 1000 500 magic 600 300 melee
+600 300 boss
